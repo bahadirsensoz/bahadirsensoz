@@ -7,10 +7,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ali-bahadir-sensoz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ali-bahadir-sensoz/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/edit/19374910" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/edit/19374910" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/alibahadirsensoz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/alibahadirsensoz" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/bsensoz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/bsensoz/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ali-bahadir-sensoz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ali-bahadir-sensoz/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/19374910" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19374910" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/alibahadirsensoz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="alibahadirsensoz" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/bsensoz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bsensoz/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

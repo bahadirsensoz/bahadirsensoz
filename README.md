@@ -1,7 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo10881
-Fork on GitHub2732
 <h3 align="center">A passionate full-stack developer from Turkey</h3>
 
 - 🌱 I’m currently learning **OpenCV, React & React Native**

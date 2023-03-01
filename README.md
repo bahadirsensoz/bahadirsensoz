@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ali Bahadir Sensoz</h1>
 <h3 align="center">A passionate full-stack developer from Turkey</h3>
 
-- 🌱 I’m currently learning **OpenCV, React & React Native**
+- 🌱 I’m currently learning **Swift, OpenCV, React & React Native**
 
 - 📫 How to reach me **alibahadirsensoz@gmail.com or https://www.linkedin.com/in/ali-bahadir-sensoz/**
 

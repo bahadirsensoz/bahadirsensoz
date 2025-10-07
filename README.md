@@ -5,6 +5,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bahadirsensoz" alt="bahadirsensoz" /></a> </p>
 
+### About me
+- I’m a **back-end engineer** who enjoys building **clean, testable services** that ship real value.
+- Recently: Trendyol Talent Program → built **Slack-bot automations** and **Go microservices** (Kafka + BigQuery + Couchbase) with **New Relic** instrumentation.
+- Interests: **FinTech**, **event-driven systems**, **data-aware backends**, and **ML-assisted tooling**.
+- Turkish note: “Zor problemler? Severim. Bitene kadar giderim.” 🙂
+
 - 📫 How to reach me **alibahadirsensoz@gmail.com or https://www.linkedin.com/in/ali-bahadir-sensoz/**
 
 <h3 align="left">Connect with me:</h3>
